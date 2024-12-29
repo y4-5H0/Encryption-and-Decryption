@@ -1,4 +1,4 @@
-# Mac-address-changer
+# Encryption-and-Decryption
 `Encryption-and-Decryption` a simple python script to encrypt and decrypt any file with password and public and private key. The script will encrypt the file with the password and public key and decrypt the file with the password and private key. The script uses the `cryptography` library to encrypt and decrypt the file.
 
 ## Usage
